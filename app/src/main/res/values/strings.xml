@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleLogin</string>
+    <string name="login_title">LOGIN</string>
+    <string name="email_title">Email</string>
+    <string name="password_title">Password</string>
+    <string name="iniciar_sesion_title">Iniciar Sesión</string>
+</resources>
